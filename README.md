@@ -1,4 +1,7 @@
 # Latihan06
 #Membuat Funtion
 
-#Pemograman Function Aritmatika
+#Pemograman Sederhana Function Aritmatika
+
+
+#Pemograman Sederhana Function Charakter
